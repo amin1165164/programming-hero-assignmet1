@@ -96,13 +96,9 @@ section{
 .one-third img{
     width: 100%;
 }
-/*.inquiry-sec img{
-    width: 60%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-}*/
+.one-third h3{
+    text-align: center;
+}
 .inquiry-sec{
     background-image: url(Images/inquiry-sec.png);
     background-repeat: no-repeat;
@@ -142,4 +138,20 @@ section{
 }
 .last-sec-icon img{
     width: 50%;
+}
+.extra-section{
+    
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+    height: 600px;
+}
+.extra-section h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: #21C9DD;
+}
+.extra-curriculam{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
 }
